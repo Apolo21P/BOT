@@ -1,4 +1,3 @@
-from settings import settings
 import discord
 import random
 import os
